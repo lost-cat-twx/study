@@ -1,3 +1,2 @@
 # study
-# my test repository
-# edit again
+#just study test
